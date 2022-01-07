@@ -1,0 +1,31 @@
+{
+  "name": "uuid-enum",
+  "version": "1.0.0",
+  "description": "Enums with uuid support which are more robust.",
+  "main": "enum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squikjs/uuid-enum.git"
+  },
+  "author": "squik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/squikjs/uuid-enum/issues"
+  },
+  "homepage": "https://github.com/squikjs/uuid-enum#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.7",
+    "jest": "^27.4.7"
+  },
+  "keywords": [
+    "enum",
+    "uuid",
+    "uuid-enum"
+  ]
+}
