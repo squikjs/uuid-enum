@@ -1,6 +1,6 @@
 {
   "name": "uuid-enum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enums with uuid support which are more robust.",
   "main": "enum.js",
   "scripts": {
